@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rajkumarvie
 - 👀 I’m interested in Automation
-- 🌱 I’m currently learning Kubernetes
+- 🌱 I’m currently learning redis
 - 💞️ I’m looking to collaborate on Devops
 - 📫 How to reach me rajkumar.vie@gmail.com
 
